@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Harvande</h1>
 <h3 align="center">A Computer Science Student @University Of Mumbai</h3>
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaIjNv4WYC6jYdKSFGBIW7Hn_D5mMMlDvWBdHQPrecBZyhsV8lC4rrS09UI6-lUaTDPs&usqp=CAU">
+<img align="center" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaIjNv4WYC6jYdKSFGBIW7Hn_D5mMMlDvWBdHQPrecBZyhsV8lC4rrS09UI6-lUaTDPs&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketh17&label=Profile%20views&color=0e75b6&style=flat" alt="sanketh17" /> </p>
 
