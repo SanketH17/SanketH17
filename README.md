@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sanketharvande49@gmail.com**
 
-- ⚡ Fun fact **I think I am overthinker :)**
+- ⚡ Fun fact **I think I am an overthinker :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
