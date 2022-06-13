@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/Developer.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/Developer.gif">
 <h1 align="left">Hello, Geeks!! 👋</h1>
 <p>Hello all! I am 𝐒𝐚𝐧𝐤𝐞𝐭 𝐇𝐚𝐫𝐯𝐚𝐧𝐝𝐞 currently pursuing a Bachelor's Degree at 𝐓𝐡𝐞 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐎𝐟 𝐌𝐮𝐦𝐛𝐚𝐢 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠. I have always been curious to gain more and more knowledge in the related field of my engineering sciences. Nowadays I am working on 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐮𝐬𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 to upskill my problem-solving skills. Also trying to develop my skills in 𝐌𝐄𝐑𝐍 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬.
 </p>
