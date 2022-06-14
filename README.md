@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanket_harvande" target="blank"><img src="https://img.shields.io/twitter/follow/sanket_harvande?logo=twitter&style=for-the-badge" alt="sanket_harvande" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaIjNv4WYC6jYdKSFGBIW7Hn_D5mMMlDvWBdHQPrecBZyhsV8lC4rrS09UI6-lUaTDPs&usqp=CAU">
+
 - 🔭 I’m currently working on **Improvement in DSA Problem Solving**
 
 - 🌱 I’m currently learning **MERN Stack Technologies**
