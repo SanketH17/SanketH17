@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Technologies**
 
-- 💬 Looking For **Internship.**
+- 💬 Looking For **Job.**
 
 - 📫 How to reach me **sanketharvande49@gmail.com**
 
