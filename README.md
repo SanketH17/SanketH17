@@ -1,10 +1,6 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/Developer.gif">
 <h1 align="left">Hello, Geeks!! 👋</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketh17&label=Profile%20views&color=0e75b6&style=flat" alt="sanketh17" /> </p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketh17" alt="sanketh17" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanket_harvande" target="blank"><img src="https://img.shields.io/twitter/follow/sanket_harvande?logo=twitter&style=for-the-badge" alt="sanket_harvande" /></a> </p>
